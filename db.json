@@ -41,12 +41,20 @@
       "image": "https://i.redd.it/dqt0rur5cm491.jpg"
     },
     {
-      "name": "sd",
-      "breed": "dscs",
-      "age": "4",
-      "color": "fdfd",
-      "image": "dfdfd",
+      "name": "Bosco",
+      "breed": "Bosco",
+      "age": "2",
+      "color": "Black",
+      "image": "https://i.natgeofe.com/n/4f5aaece-3300-41a4-b2a8-ed2708a0a27c/domestic-dog_thumb_square.jpg",
       "id": 6
+    },
+    {
+      "name": "Bosco",
+      "breed": "Bosco",
+      "age": "2",
+      "color": "Black",
+      "image": "https://i.natgeofe.com/n/4f5aaece-3300-41a4-b2a8-ed2708a0a27c/domestic-dog_thumb_square.jpg",
+      "id": 7
     }
   ]
 }
