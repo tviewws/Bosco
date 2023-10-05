@@ -1,0 +1,52 @@
+{
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Max",
+      "breed": "Labrador Retriever",
+      "age": "8 months",
+      "color": "brown",
+      "image": "https://i.pinimg.com/originals/4c/ac/90/4cac90a2750fe5fca23be4827a3ff0c3.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bella",
+      "breed": "German Shepherd",
+      "age": "5 months",
+      "color": "Black",
+      "image": "https://germanshepherdsetc.com/wp-content/uploads/2022/05/GSD_Cost_1.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "breed": "Golden Retriever",
+      "age": "1yr",
+      "color": "Brown",
+      "image": "https://devotedtodog.com/wp-content/uploads/2022/06/What-does-a-1-year-old-Golden-Retriever-look-like.png"
+    },
+    {
+      "id": 4,
+      "name": "Daisy",
+      "breed": "Bulldog",
+      "age": "3 months",
+      "color": "Golden",
+      "image": "https://cdn.britannica.com/78/232778-050-D3701AB1/English-bulldog-dog.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Rocky",
+      "breed": "Siberian Husky",
+      "age": "6 months",
+      "color": "Spotted",
+      "image": "https://i.redd.it/dqt0rur5cm491.jpg"
+    },
+    {
+      "name": "sd",
+      "breed": "dscs",
+      "age": "4",
+      "color": "fdfd",
+      "image": "dfdfd",
+      "id": 6
+    }
+  ]
+}

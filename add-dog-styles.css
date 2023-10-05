@@ -1,0 +1,56 @@
+/* add-dog-styles.css */
+
+body, h1, label, input, form {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: aquamarine;
+}
+
+h1 {
+    color: rgb(139, 12, 197);
+    margin-bottom: 20px;
+}
+
+form {
+    text-align: center;
+    background-color: beige;
+    border-radius: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 55px;
+    width: 300px;
+}
+
+label {
+    color: #777;
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="file"], input[type="text"], input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}

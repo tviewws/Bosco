@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="add-dog-styles.css">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add a Dog</title>
+</head>
+<body>
+    
+    <form action="process-dog.php" method="post" enctype="multipart/form-data" id="form">
+        <label for="dogImage">Dog Image:</label>
+        <input type="text" id="dogImage" name="dogImage" required><br>
+
+        <label for="dogName">Name:</label>
+        <input type="text" id="dogName" name="dogName" required><br>
+
+        <label for="dogAge">Age:</label>
+        <input type="number" id="dogAge" name="dogAge" required><br>
+
+        <label for="dogBreed">Breed:</label>
+        <input type="text" id="dogBreed" name="dogBreed" required><br>
+
+        <label for="dogColor">Color:</label>
+        <input type="text" id="dogColor" name="dogColor" required><br>
+
+        <input type="submit" value="Add Dog">
+    </form>
+    <script src="script.js"></script>
+</body>
+</html>
