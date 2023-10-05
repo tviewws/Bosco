@@ -55,6 +55,22 @@
       "color": "Black",
       "image": "https://i.natgeofe.com/n/4f5aaece-3300-41a4-b2a8-ed2708a0a27c/domestic-dog_thumb_square.jpg",
       "id": 7
+    },
+    {
+      "name": "Jet",
+      "breed": "Golden Retriever",
+      "age": "1",
+      "color": "Golden",
+      "image": "https://cdn.britannica.com/60/8160-050-08CCEABC/German-shepherd.jpg",
+      "id": 8
+    },
+    {
+      "name": "Jet",
+      "breed": "Golden Retriever",
+      "age": "5",
+      "color": "Golden",
+      "image": "https://cdn.britannica.com/60/8160-050-08CCEABC/German-shepherd.jpg",
+      "id": 9
     }
   ]
 }
